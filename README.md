@@ -39,11 +39,12 @@ Please follow the instructions here to install both PyTorch and TorchVision depe
 
 Install Segment Anything:
 
-  > pip install git+https://github.com/facebookresearch/segment-anything.git
+  ` pip install git+https://github.com/facebookresearch/segment-anything.git `
 
-  > pip install opencv-python pycocotools matplotlib onnxruntime onnx
+  ` pip install opencv-python pycocotools matplotlib onnxruntime onnx `
 
 
+![Screenshot 2023-06-27 at 7 40 42 PM](https://github.com/RATHOD-SHUBHAM/SegmentAnything/assets/58945964/4c21c252-687d-4992-828b-a56278a6fb93)
 ---
 
 # Yolo NAS + SAM
