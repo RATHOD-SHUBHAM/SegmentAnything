@@ -53,7 +53,7 @@ Example on using SAM with prompts and automatically generating masks:
 
 # Yolo NAS + SAM
 
-*Yolo NAS model is explored previously.*
+*Yolo NAS model explored [here](https://github.com/RATHOD-SHUBHAM/OOD_YOLONAS).*
 
 Steps:
 
