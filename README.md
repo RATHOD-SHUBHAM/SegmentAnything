@@ -35,7 +35,7 @@ We get possible valid masks along with a confidence score as the output.
 
 > The code requires python>=3.8, as well as pytorch>=1.7 and torchvision>=0.8. 
 
-Please follow the instructions here to install both PyTorch and TorchVision dependencies. Installing both PyTorch and TorchVision with CUDA support is strongly recommended.
+Installing both PyTorch and TorchVision with CUDA support is strongly recommended.
 
 Install Segment Anything:
 
