@@ -43,6 +43,7 @@ Install Segment Anything:
 
   ` pip install opencv-python pycocotools matplotlib onnxruntime onnx `
 
+Example on using SAM with prompts and automatically generating masks:
 
 ![Screenshot 2023-06-27 at 7 40 42 PM](https://github.com/RATHOD-SHUBHAM/SegmentAnything/assets/58945964/4c21c252-687d-4992-828b-a56278a6fb93)
 ---
