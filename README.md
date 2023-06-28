@@ -77,7 +77,7 @@ Steps:
 
 10. Visualize the results: Visualize the results of object detection and segmentation by drawing bounding boxes around the objects detected and coloring the segmented objects.
 
-<img width="1733" alt="Screenshot 2023-05-14 at 2 38 54 PM" src="https://github.com/RATHOD-SHUBHAM/OOD_YOLONAS_SAM/assets/58945964/1b031f8a-10f7-4392-ad59-7304bbe3df6c">
+![Screenshot 2023-06-27 at 8 06 06 PM](https://github.com/RATHOD-SHUBHAM/SegmentAnything/assets/58945964/d2eb91a1-47cd-45b9-9d74-75f0ba70aa58)
 
 
 ***
