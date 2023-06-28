@@ -43,12 +43,13 @@ Install Segment Anything:
 
   ` pip install opencv-python pycocotools matplotlib onnxruntime onnx `
 
-***
+---
 
 Example on using SAM with prompts and automatically generating masks:
 
 ![Screenshot 2023-06-27 at 7 40 42 PM](https://github.com/RATHOD-SHUBHAM/SegmentAnything/assets/58945964/4c21c252-687d-4992-828b-a56278a6fb93)
----
+
+***
 
 # Yolo NAS + SAM
 
@@ -79,6 +80,6 @@ Steps:
 <img width="1733" alt="Screenshot 2023-05-14 at 2 38 54 PM" src="https://github.com/RATHOD-SHUBHAM/OOD_YOLONAS_SAM/assets/58945964/1b031f8a-10f7-4392-ad59-7304bbe3df6c">
 
 
----
+***
 
 Kaggle Notebook: https://www.kaggle.com/code/gibborathod/segmentanything?scriptVersionId=130225073
